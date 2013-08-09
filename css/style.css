@@ -1,0 +1,47 @@
+.match{
+    padding-left:5px;
+    cursor:pointer;
+    padding:0px;
+    background-color:#444547;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+    border-top:1px solid orange;
+    margin-top:0px;
+    color:#ccc;
+    margin-left:0px;
+    width:255px;
+}
+.hover{
+    color:orange;
+}
+a{
+    text-decoration:none;
+}
+li{
+    padding-top:3px;
+    padding-left:5px;
+    font-size:10px;
+    text-transform:capitalize;
+    margin:0px;
+    border-bottom:1px solid white;
+    width:250px;
+    height:20px;
+}
+input{
+    width:250px;
+    padding-left:5px;
+    height:22px;
+    text-transform:capitalize;
+    margin:0px;
+    color:white;
+    background-color:black;
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+    border-width:0px;
+    outline:none;
+}
+li:first-letter{
+    color:#4DBB49;
+    font-weight:bold;
+
+}
