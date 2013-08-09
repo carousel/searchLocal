@@ -1,6 +1,6 @@
 #local search application
 # written by Miroslav Trninic email:miroslav.trninic@gmail.com
-# https://github.com/carouel
+# https://github.com/carousel
 
 
 #local database 
